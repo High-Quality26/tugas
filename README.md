@@ -1,4 +1,4 @@
-# Jobsheet1 Modul1
+# Jobsheet1 Modul2
 Latihan 1
 ![alt text](https://github.com/High-Quality26/Modul2/blob/master/src/Modul2/LAtihan1.JPG);
 <br>
